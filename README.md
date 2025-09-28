@@ -60,7 +60,7 @@ The project is deployed on Vercel for fast, scalable, and production-ready hosti
 📹 Demo Video
 
 🎥 Watch how Zeyora works in under 5 minutes:
-📎 https://www.loom.com/share/9d7a5c7fa0964b85bdc6fbf087a7890c?sid=696df239-0ac8-4f89-b73e-e97d77791150
+📎https://www.loom.com/share/ebd224d7b552434da603674b4c0df803?sid=ac53bbc0-188d-4be2-b367-79f3c8b90c38
 
 🚀 Roadmap & Future Enhancements
 
