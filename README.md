@@ -56,7 +56,6 @@ npm run dev
 The project is deployed on Vercel for fast, scalable, and production-ready hosting.
 
 🔗 Live Demo: https://zeyora.vercel.app
- 
 
 📹 Demo Video
 
@@ -66,6 +65,8 @@ The project is deployed on Vercel for fast, scalable, and production-ready hosti
 🚀 Roadmap & Future Enhancements
 
 🛒 Shopping cart and checkout flow
+
+🔐 Authentication (Sign In / Sign Up)
 
 🧠 Advanced search and product recommendations
 
